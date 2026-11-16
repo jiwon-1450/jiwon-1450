@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+안녕하세요? 덕질에 미쳐 거지가 된 컴공 학생입니다.
+부자되고 싶어요
+
+열심히 노력 해보겠습니다!
 <!--
 **jiwon-1450/jiwon-1450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
